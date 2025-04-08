@@ -1,4 +1,7 @@
 # Lee-Huisang
+블로그
+https://velog.io/@u_n_owen/posts
+
 백준
 https://www.acmicpc.net/user/huisang032
 
